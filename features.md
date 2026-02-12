@@ -59,4 +59,10 @@
 - Local Config Manager
 - Cloud Config Manager
 
+## Loader
+
+- Aswell fully Streamproof if wanted
+- Overlay manager (Fullscreen or normal)
+- Auto Login (or only save the key)
+
 ## Please note, these aren't all features — just all notable.
