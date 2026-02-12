@@ -2,7 +2,7 @@
 
 ## Public Repositories of [average.wtf](https://average.wtf/)
 
- <a href="https://discord.gg/DsUS6jFby2"> align="center"> <img src="https://img.shields.io/discord/1287140578492158034?label=discord&logo=discord&style=flat-square" alt="discord"></a>
+<p align="center"> <a href="https://discord.gg/DsUS6jFby2"><img src="https://img.shields.io/discord/1287140578492158034?label=discord&logo=discord&style=flat-square" alt="discord"></a></p>
 
 # Links
 
