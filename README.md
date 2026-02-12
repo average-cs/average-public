@@ -2,6 +2,8 @@
 
 ## Public Repositories of [average.wtf](https://average.wtf/)
 
+ <a href="https://discord.gg/DsUS6jFby2"><img src="https://img.shields.io/discord/1287140578492158034?label=discord&logo=discord&style=flat-square" alt="discord"></a>
+
 # Links
 
 U can find our offical Gitbook [here](https://cs2-kernel.gitbook.io/cs2-kernel/).
