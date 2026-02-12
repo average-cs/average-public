@@ -12,7 +12,7 @@ U can find our offical Discord [here](https://discord.com/invite/DsUS6jFby2).
 
 # Featurelist
 
-**[U can browse our features here →](applications/README.md)**
+U can browse our features [here](features.md).
 
 # Menu Screenshots
 
