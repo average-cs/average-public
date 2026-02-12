@@ -12,6 +12,8 @@ U can find our map files [here](https://mega.nz/file/jqBCQYhQ#diJbm4IS0iMrmiluUM
 
 U can find our offical Discord [here](https://discord.com/invite/DsUS6jFby2).
 
+U can download our Loader [here](https://panel.average.wtf/user/keys/).
+
 # Featurelist
 
 U can browse our features [here](features.md).
