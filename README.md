@@ -1,9 +1,9 @@
 
 
-##This is the public repo of average.wtf
+## This is the public repo of average.wtf
 
 
-##Menu Screenshots
+## Menu Screenshots
 
 
 <p align="center"><img src="Pictures/Aim.png" alt="Logo"></p>
@@ -14,5 +14,5 @@
 <p align="center"><img src="Pictures/Configs.png" alt="Logo"></p>
 
 
-##U can find our map files [here](https://mega.nz/file/jqBCQYhQ#diJbm4IS0iMrmiluUM0Yl6gc3whDKPo60r6dYmC938I).
+## U can find our map files [here](https://mega.nz/file/jqBCQYhQ#diJbm4IS0iMrmiluUM0Yl6gc3whDKPo60r6dYmC938I).
 
